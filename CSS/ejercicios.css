@@ -81,6 +81,7 @@ footer {
   background-size: cover;
   background-repeat: no-repeat;
   background-image: url("../assets/fondo.jpg");
+  background-attachment: fixed;
 }
 
 .hero-image div {
